@@ -1,0 +1,160 @@
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.creatingTrackFromFiles]INFO:atomStructure:assert file name isn't null,in class atomStructure,method creatingTrackFromFiles
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.creatingTrackFromFiles]INFO:atomStructure:read a file
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.getTrackNumber2]INFO:atomStructure:assert trackNumber isn't 0,in class atomStructure,method getTrackNumber2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.getTrackObjectNumber]INFO:atomStructure:assert trackObjectNumber isn't empty,in class atomStructure,method getTrackObjectNumber
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.getTrackObjectNumber]INFO:atomStructure:return trackObjectNumber
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.addTrack]INFO:atomStructure:add a track
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.addTrack]INFO:atomStructure:add a track
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.addTrack]INFO:atomStructure:add a track
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.addTrack]INFO:atomStructure:add a track
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.addTrack]INFO:atomStructure:add a track
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.getPhysical]INFO:Concrete:return physical list,in class ConcreteCircularObject,method getPhysical
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.addTrack]INFO:atomStructure:add a track
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 0
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 0
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 1
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 2
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 3
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 4
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 5
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:assert physical isn't empty,in class ConcreteCircular,method addTrackObject
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.ConcreteCircularObject.addTrackObject]INFO:Concrete:another object is added to track 5
+Mon Jun 03 22:06:17 CST 2019-[circularorbit.AtomStructure.creatingTrack]INFO:atomStructure:creating a track
