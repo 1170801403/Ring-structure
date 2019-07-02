@@ -1,4 +1,4 @@
-Thank you for your interest in making Track Structure bette ! There are several ways you can get involved.
+Thank you for your interest in making Track Structure bette ! Here's what we'd like you to consider.
 
 # Contributions we accept
 We welcome your contributions to the Calculator project, especially to fix bugs and to make improvements which address the top issues reported by Calculator users. Some general guidelines:
