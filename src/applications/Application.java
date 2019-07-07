@@ -51,7 +51,11 @@ public class Application {
     System.out
         .println("Now please choose the method to write files:Stream(a) Writer(b) Printer(c)");
     Scanner choiceOrder = new Scanner(System.in);
-    String read = choiceOrder.next();
+    String read = null;
+    while((read = choiceOrder.next()) == null){
+      System.out.println("input error");
+    }
+   
     boolean choose2 = true;
     boolean fina = false;
     while (choose2) {
@@ -122,7 +126,10 @@ public class Application {
     System.out
         .println("Now please choose the method to write files:Stream(a) Writer(b) Printer(c)");
     Scanner choiceOrder = new Scanner(System.in);
-    String read = choiceOrder.next();
+    String read = null;
+    while((read = choiceOrder.next())==null){
+      System.out.println("input error");
+    }
     boolean choose2 = true;
     boolean fina = false;
     while (choose2) {
@@ -194,7 +201,10 @@ public class Application {
     System.out
         .println("Now please choose the method to write files:Stream(a) Writer(b) Printer(c)");
     Scanner choiceOrder = new Scanner(System.in);
-    String read = choiceOrder.next();
+    String read = null;
+    while((read = choiceOrder.next()) == null){
+      System.out.println("input error");
+    }
     boolean choose2 = true;
     boolean fina = false;
     while (choose2) {
