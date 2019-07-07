@@ -68,7 +68,9 @@ public class Application {
             choose2 = false;
           } else {
             System.out.println("please input:");
-            read = choiceOrder.next();
+            while((read = choiceOrder.next()) == null) {
+              System.out.println("input error");
+            }
           }
         } else {
           choose2 = false;
@@ -84,7 +86,9 @@ public class Application {
             choose2 = false;
           } else {
             System.out.println("please input:");
-            read = choiceOrder.next();
+            while((read = choiceOrder.next()) == null) {
+              System.out.println("input error");
+            }
           }
         } else {
           choose2 = false;
@@ -99,7 +103,9 @@ public class Application {
             choose2 = false;
           } else {
             System.out.println("please input:");
-            read = choiceOrder.next();
+            while((read = choiceOrder.next()) == null) {
+              System.out.println("input error");
+            }
           }
         } else {
           choose2 = false;
@@ -112,7 +118,9 @@ public class Application {
           choose2 = false;
         } else {
           System.out.println("Please input:");
-          read = choiceOrder.next();;
+          while((read = choiceOrder.next()) == null) {
+            System.out.println("input error");
+          }
         }
       }
     }
@@ -142,7 +150,9 @@ public class Application {
             choose2 = false;
           } else {
             System.out.println("please input:");
-            read = choiceOrder.next();
+            while((read = choiceOrder.next()) == null) {
+              System.out.println("input error");
+            }
           }
         } else {
           choose2 = false;
@@ -158,7 +168,9 @@ public class Application {
             choose2 = false;
           } else {
             System.out.println("please input:");
-            read = choiceOrder.next();
+            while((read = choiceOrder.next()) == null) {
+              System.out.println("input error");
+            }
           }
         } else {
           choose2 = false;
@@ -173,7 +185,9 @@ public class Application {
             choose2 = false;
           } else {
             System.out.println("please input:");
-            read = choiceOrder.next();
+            while((read = choiceOrder.next()) == null) {
+              System.out.println("input error");
+            }
           }
         } else {
           choose2 = false;
@@ -186,7 +200,9 @@ public class Application {
           choose2 = false;
         } else {
           System.out.println("Please input:");
-          read = choiceOrder.next();;
+          while((read = choiceOrder.next()) == null) {
+            System.out.println("input error");
+          }
         }
       }
     }
